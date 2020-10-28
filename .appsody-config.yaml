@@ -1,0 +1,3 @@
+id: "20201027233923.51725700"
+project-name: appsody-calculator
+stack: docker.io/appsody/java-openliberty:0.2
