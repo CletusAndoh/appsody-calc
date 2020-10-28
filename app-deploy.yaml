@@ -1,6 +1,7 @@
 apiVersion: openliberty.io/v1beta1
 kind: OpenLibertyApplication
 metadata:
+  namespace: demo
   annotations:
     architecture: x86_64
     build-date: 2020-09-01T19:43:46.041620
